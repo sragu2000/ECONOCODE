@@ -1,0 +1,2 @@
+Let assume, Because of the price increase in gas cylinders from 2000Rs to 3000Rs, Market research reveals that 1000Rs increase in price, dropped demand of cylinder from 1000 units to 900 units So, Demand of the Inductive Cooker changed from 200 units to 300 units. Income of  a customer increased from 50000Rs to 60000.
+Find : PED, XED, YED, PES
